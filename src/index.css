@@ -1,0 +1,26 @@
+@import 'assets/fonts/index.css';
+@import 'assets/reset.css';
+
+body {
+  height: 100%;
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+  line-height: 22px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #e5e5e5;
+}
+@media all and (max-width: 600px) {
+  body {
+    font-size: 16px;
+    line-height: 20px;
+  }
+}
+#root {
+  height: 100%;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
