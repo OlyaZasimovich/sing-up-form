@@ -2,7 +2,7 @@
   "name": "myform",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sign-up-test-task.herokuapp.com/",
+  "homepage": "https://sing-up-form.herokuapp.com/",
   "dependencies": {
     "@emotion/react": "^11.4.1",
     "@emotion/styled": "^11.3.0",
